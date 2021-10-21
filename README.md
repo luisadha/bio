@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @luisadha
-- 👀 I’m interested in make a script Bash
+- 👀 I'm interested in technology, scripting is my hobby and will probably make an app too
 - 🌱 I’m currently learning...
 - 💞️ I’m looking to collaborate on Open Source Project
-- 📫 How to reach me <adharudin14@gmail.com>
+- 📫 How to donate me? Paypal: adharudin14@gmail.com
 ..
 <!---
 luisadha/luisadha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
