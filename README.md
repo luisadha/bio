@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @luisadha
-- 👀 I'm interested in technology, scripting is my hobby and will probably make an app too
-- 🌱 I’m currently learning...
-- 💞️ I’m looking to collaborate on Open Source Project
-- 📫 How to donate me? Paypal: adharudin14@gmail.com
+- 👋 Hi, I’m @luisadha a person with his unique character, playing with the terminal every day and love android
+- 👀 I'm interested in technology, I'm a novice coder at the moment and need a lot of experience.
+- 🌱 I’m I'm currently learning shells.
+- 🤝 I'm looking for a suitable collaboration
+- 💞 Happy to try new apps especially useful tools/utilities because my hobby is downloading apps either on playstore or on f-droid.org
+- 📫 How to reach me? Paypal or E-mail: adharudin14@gmail.com
 ..
 <!---
 luisadha/luisadha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
